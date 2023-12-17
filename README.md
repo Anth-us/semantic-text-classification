@@ -20,9 +20,11 @@ To run the notebook:
 2. Install required dependencies.
 3. Run the Jupyter notebook.
 
+You'll need to provide an OpenAI API key if you want to generate embeddings with Ada 2.
+
 ### Alternative
 
-Go [here](https://colab.research.google.com/drive/1THEqXHIvy1IEAzVLvB0rVwwSW30jZ5Ku?usp=sharing) and run it for free on Google Colab.
+Go [here](https://colab.research.google.com/drive/1THEqXHIvy1IEAzVLvB0rVwwSW30jZ5Ku?usp=sharing) and run it for free on Google Colab.  You'll need to upload the `labeled.csv` data file from this repository.  A free Colab notebook can handle the model training and the BERT embeddings, no problem.
 
 ## Contributing
 

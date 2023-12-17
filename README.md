@@ -20,6 +20,10 @@ To run the notebook:
 2. Install required dependencies.
 3. Run the Jupyter notebook.
 
+### Alternative
+
+Go [here](https://colab.research.google.com/drive/1THEqXHIvy1IEAzVLvB0rVwwSW30jZ5Ku?usp=sharing) and run it for free on Google Colab.
+
 ## Contributing
 
 Contributions to improve the notebook or add more embedding techniques are welcome. Please follow the standard GitHub pull request process.
